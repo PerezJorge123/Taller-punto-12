@@ -1,0 +1,14 @@
+C:\repositorio\MiPrimerPrograma\taller punto 11\taller punto 11\bin\Debug\net6.0\taller punto 11.exe
+C:\repositorio\MiPrimerPrograma\taller punto 11\taller punto 11\bin\Debug\net6.0\taller punto 11.deps.json
+C:\repositorio\MiPrimerPrograma\taller punto 11\taller punto 11\bin\Debug\net6.0\taller punto 11.runtimeconfig.json
+C:\repositorio\MiPrimerPrograma\taller punto 11\taller punto 11\bin\Debug\net6.0\taller punto 11.dll
+C:\repositorio\MiPrimerPrograma\taller punto 11\taller punto 11\bin\Debug\net6.0\taller punto 11.pdb
+C:\repositorio\MiPrimerPrograma\taller punto 11\taller punto 11\obj\Debug\net6.0\taller punto 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorio\MiPrimerPrograma\taller punto 11\taller punto 11\obj\Debug\net6.0\taller punto 11.AssemblyInfoInputs.cache
+C:\repositorio\MiPrimerPrograma\taller punto 11\taller punto 11\obj\Debug\net6.0\taller punto 11.AssemblyInfo.cs
+C:\repositorio\MiPrimerPrograma\taller punto 11\taller punto 11\obj\Debug\net6.0\taller punto 11.csproj.CoreCompileInputs.cache
+C:\repositorio\MiPrimerPrograma\taller punto 11\taller punto 11\obj\Debug\net6.0\taller punto 11.dll
+C:\repositorio\MiPrimerPrograma\taller punto 11\taller punto 11\obj\Debug\net6.0\refint\taller punto 11.dll
+C:\repositorio\MiPrimerPrograma\taller punto 11\taller punto 11\obj\Debug\net6.0\taller punto 11.pdb
+C:\repositorio\MiPrimerPrograma\taller punto 11\taller punto 11\obj\Debug\net6.0\taller punto 11.genruntimeconfig.cache
+C:\repositorio\MiPrimerPrograma\taller punto 11\taller punto 11\obj\Debug\net6.0\ref\taller punto 11.dll
